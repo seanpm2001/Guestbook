@@ -10,12 +10,17 @@
 
 This is a guestbook, where people who visit my repository can sign, ask questions, and give feedback. As of 2023, Monday, April 24th, I am getting very little interaction on my profile, so I wanted to see how many people are willing to post. I also like the idea of having a guestbook.
 
-There are multiple guestbooks (but not too many) for different subjects.
+There are multiple guestbooks (but not too many, only 4) for different subjects. They include:
 
-[:octocat: `View all guestbooks`](https://github.com/seanpm2001/Guestbook/discssions/)
+1. General
+2. Off topic
+3. Follow for follow
+4. Promotion - Show off your repositories (limit: 6 repos per user/day)
+
+[:octocat: `View all guestbooks`](https://github.com/seanpm2001/Guestbook/discussions/)
 
 ***
 
-**File version:** `1 (2023, Monday, April 24th at 9:41 pm PST)`
+**File version:** `2 (2023, Monday, April 24th at 9:57 pm PST)`
 
 ***
